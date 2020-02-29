@@ -1,0 +1,6 @@
+dj-database-url
+Django
+django-crispy-forms
+django-extensions
+django-mathfilters
+
