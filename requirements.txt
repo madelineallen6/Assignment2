@@ -3,7 +3,7 @@ Django
 django-crispy-forms
 django-extensions
 django-mathfilters
-gunicorn==19.9.0
+gunicorn
 psycopg2
 pytz
 whitenoise
